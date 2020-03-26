@@ -72,7 +72,7 @@ instance/
 .idea/.gitignore
 .idea/misc.xml
 .idea/modules.xml
-
+Simulator-BLE.iml
 # Sphinx documentation
 docs/_build/
 
